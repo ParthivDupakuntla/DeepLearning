@@ -1,1 +1,1 @@
-Collection of ipynb notebooks of this course
+Collection of my solution notebooks of this course
